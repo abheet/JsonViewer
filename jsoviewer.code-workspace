@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/home/abheet/PycharmProjects/Automation"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "api_env/bin/python2.7"
+	}
+}
